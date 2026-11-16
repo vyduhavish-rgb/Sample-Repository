@@ -1,0 +1,17 @@
+print("Hello World ")
+----------------------
+
+java
+----------------------
+public class HelloWorld{
+       public static void main(String{} args){
+       System.out.printIn("Hello World");
+       }
+}
+
+C
+---
+#include<studio.h>
+   int main(){
+       printf("Hello World")
+       
